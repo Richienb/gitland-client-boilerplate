@@ -16,7 +16,7 @@ do
   esac
 
   git add -A
-  git commit -m "New move"
+  git commit -m "Next move"
   git push
 
   sleep 60
